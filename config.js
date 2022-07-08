@@ -4,8 +4,8 @@ import { watchFile, unwatchFile } from 'fs'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['+62 812-5154-9899'],
-  ['+62 812-5154-9899', 'ᴅᴀɴɪ ᴏғғᴄɪᴀʟ👑', true],
+  ['+6285749618902'],
+  ['+6285749618902', '𝗔𝗻𝗱𝗵𝗶𝗸𝗮', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -34,11 +34,11 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 ᴅᴀɴɪʙᴏᴛᴢ_ᴏғᴄ あ⁩ 」' //Main Watermark
+global.wm = '                「 𝗔𝗻𝗱𝗵𝗶𝗸𝗮⁩ 」' //Main Watermark
 
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - ᴅᴀɴɪ👑˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝗔𝗻𝗱𝗵𝗶𝗸𝗮˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
-global.wm3 = '⫹⫺ ꜱᴀᴅ 𝗕𝗢𝗧'
+global.wm3 = '⫹⫺ 𝗔𝗻𝗱𝗵𝗶𝗸𝗮𝗕𝗼𝘁'
 
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
@@ -47,7 +47,7 @@ global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:m
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
 `
 
-global.author = '                「 ᴅᴀɴɪʙᴏᴛᴢ_ᴏғᴄ あ⁩ 」'
+global.author = '                「 𝗔𝗻𝗱𝗵𝗶𝗸𝗮⁩ 」'
 
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
@@ -84,14 +84,14 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 global.bg = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://telegra.ph/file/ae610571b62b5ab876e9c.jpg', 'https://telegra.ph/file/cc8255d5b989eef587af2.jpg','https://telegra.ph/file/30d2e7375996abd9cfee3.jpg']
 /*============== NOMOR ==============*/
-global.nomorbot = '6285643841250'
-global.nomorown = '6281251549899'
+global.nomorbot = '6281358929103'
+global.nomorown = '6285749618902'
 global.namebot = 'ᴅᴀɴɪʙᴏᴛᴢ_ᴏғᴄ'
 global.nameown = 'ᴅᴀɴɪ ᴏғғᴄɪᴀʟ👑'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
-global.fpagedoc = '999'
+global.fpagedoc = '1234567890'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
