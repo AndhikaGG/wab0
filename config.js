@@ -118,8 +118,8 @@ global.hsquere = '⛶', '❏', '⫹⫺'
 global.l = '「'
 global.r = '」'
 // Sticker WM
-global.packname = ''
-global.author = ''
+global.packname = '𝗔𝗻𝗱𝗵𝗶𝗸𝗮𝗕𝗼𝘁'
+global.author ='WhatsApp Bot https://wa.me/6281358929103'
 
 global.multiplier = 69 // The higher, The harder levelup
 
